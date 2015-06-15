@@ -1,2 +1,2 @@
-/.metadata # 忽略 .metadata 目录下的所有文件
-/RemoteSystemsTempFiles # 忽略 RemoteSystemsTempFiles目录下的所有文件
+/.metadata
+/RemoteSystemsTempFiles
