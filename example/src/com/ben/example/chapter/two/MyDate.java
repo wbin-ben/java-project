@@ -2,6 +2,7 @@ package com.ben.example.chapter.two;
 
 import java.util.Date;
 
+
 public class MyDate extends Date{
 	/**
 	 * 
